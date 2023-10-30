@@ -1,0 +1,29 @@
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+
+.slick-prev:before,
+.slick-next:before {
+    color: black;
+    font-size: 40px;
+}
+
+.slick-next:before {
+    position: absolute;
+    right: 0;
+}
+
+.slick-next,
+.slick-prev {
+    position: absolute;
+    right: 0;
+}
+
+.slick-prev {
+    z-index: 1;
+    margin-left: 25px;
+}
+
+.slick-dots {
+    position: static;
+}
