@@ -1,5 +1,5 @@
 import React from 'react'
-import { AiFillStar, AiOutlineStar } from 'react-icons/Ai'
+import { AiFillStar, AiOutlineStar } from 'react-icons/ai'
 
 function StarRating({ rating }) {
     return (

@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaFacebookF, FaDribbble, FaLinkedinIn, FaInstagram, FaBehance } from 'react-icons/fa'
+import { FaFacebookF, FaLinkedinIn, FaInstagram } from 'react-icons/fa'
 
 function Footer() {
     return (
@@ -25,11 +25,10 @@ function Footer() {
                     <h3 className='text-2xl font-bold'>Explore</h3>
                     <ul className='py-6 text-[#6D737A]'>
                         <li className='py-2'>Home</li>
-                        <li className='py-2'>About</li>
                         <li className='py-2'>Course</li>
-                        <li className='py-2'>Blog</li>
-                        <li className='py-2'>Contact</li>
-
+                        <li className='py-2'>About</li>
+                        <li className='py-2'>Categories</li>
+                        <li className='py-2'>Feedback</li>
                     </ul>
                 </div>
 
