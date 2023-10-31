@@ -18,7 +18,7 @@ function Navbar() {
                     <ul className='flex gap-4 font-semibold'>
                         <HashLink to='#home' smooth className='cursor-pointer'>Home</HashLink>
                         <HashLink to='#courses' smooth className='cursor-pointer'>Courses</HashLink>
-                        <HashLink to='#companies' smooth className='cursor-pointer'>Partners</HashLink>
+                        <HashLink to='#companies' smooth className='cursor-pointer'>About</HashLink>
                         <HashLink to='#categories' smooth className='cursor-pointer'>Categories</HashLink>
                         <HashLink to='#feedback' smooth className='cursor-pointer'>Feedback</HashLink>
                         <HashLink to='#subscribe' smooth className='cursor-pointer'>Subscribe</HashLink>
@@ -43,7 +43,7 @@ function Navbar() {
                 <ul className='font-semibold'>
                     <HashLink to='#home' smooth className='p-4 hover:bg-gray-100'>Home</HashLink>
                     <HashLink to='#courses' smooth className='p-4 hover:bg-gray-100'>Courses</HashLink>
-                    <HashLink to='#companies' smooth className='p-4 hover:bg-gray-100'>Partners</HashLink>
+                    <HashLink to='#companies' smooth className='p-4 hover:bg-gray-100'>About</HashLink>
                     <HashLink to='#categories' smooth className='p-4 hover:bg-gray-100'>Categories</HashLink>
                     <HashLink to='#feedback' smooth className='p-4 hover:bg-gray-100'>Feedback</HashLink>
                     <HashLink to='#subscribe' smooth className='p-4 hover:bg-gray-100'>Subscribe</HashLink>

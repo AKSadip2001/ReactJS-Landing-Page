@@ -1,3 +1,7 @@
+import { React, useEffect } from 'react'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
 import { BrowserRouter } from "react-router-dom";
 
 import Courses from "./components/Courses"
@@ -12,6 +16,9 @@ import Footer from "./components/Footer"
 import './App.css'
 
 function App() {
+  useEffect(() => {
+    AOS.init();
+  }, [])
 
   return (
     <BrowserRouter>

@@ -8,12 +8,6 @@ export default {
       },
       height: {
         calc: 'calc(100vh - 70px)',
-      },
-      keyframes: {
-        slideup: {
-          '0%': { transform: 'translateY(250px)', opacity: '0' },
-          '100%': { transform: 'translateY(0px)', opacity: '1' }
-        }
       }
     },
   },
