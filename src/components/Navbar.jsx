@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { HashLink } from "react-router-hash-link";
 
-import { AiFillLock, AiOutlineClose } from 'react-icons/Ai';
-import { GiHamburgerMenu } from 'react-icons/Gi';
+import { AiFillLock, AiOutlineClose } from 'react-icons/ai';
+import { GiHamburgerMenu } from 'react-icons/gi';
 
 
 function Navbar() {
