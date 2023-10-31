@@ -1,8 +1,14 @@
-# React + Vite
+# Nelify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://reactjs-nitix-interactivecares.netlify.app/
 
-Currently, two official plugins are available:
+# Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/AKSadip2001/ReactJS-Landing-Page/assets/84903691/de817165-9f52-446e-9b5a-f33081a4ba3c
+
+
+# Modules
+
+* react-icons (for icons)
+* react-slick (for sliders)
+* aos (for animations)
